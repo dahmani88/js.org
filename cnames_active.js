@@ -2004,6 +2004,7 @@ var cnames_active = {
   "mdcdev": "galleniz.github.io/mdcdev.js",
   "mdjs": "xtnmoe.github.io/MdJs",
   "mdld": "davay42.github.io/mdld-parse",
+  "mdpro": "dahmani88.github.io/md-PRO",
   "mdxe": "cname.vercel-dns.com", // noCF
   "mechan": "dusterthefirst.github.io/mechan.js",
   "medan": "medan-js.github.io", // noCF
